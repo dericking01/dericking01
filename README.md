@@ -75,6 +75,11 @@ I use various resources like Udemy Courses, youtube Tutorials and hackerthon cha
 #### Coding Stats
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 #### Github Stats
