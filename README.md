@@ -77,8 +77,7 @@ I use various resources like Udemy Courses, youtube Tutorials and hackerthon cha
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   7 mins          ███████████████▒░░░░░░░░░   60.99 %
-YAML       4 mins          █████████▓░░░░░░░░░░░░░░░   39.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
