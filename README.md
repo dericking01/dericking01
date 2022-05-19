@@ -77,9 +77,7 @@ I use various resources like Udemy Courses, youtube Tutorials and hackerthon cha
 <!--START_SECTION:waka-->
 
 ```text
-CSS          7 mins          ████████████████▒░░░░░░░░   64.83 %
-JSON         3 mins          ████████▒░░░░░░░░░░░░░░░░   33.98 %
-JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
