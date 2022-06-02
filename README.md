@@ -77,8 +77,8 @@ I use various resources like Udemy Courses, youtube Tutorials and hackerthon cha
 <!--START_SECTION:waka-->
 
 ```text
-Java    9 hrs 43 mins   ██████████████████████▓░░   90.91 %
-JSON    58 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 %
+Java    9 hrs 50 mins   █████████████████████▓░░░   86.72 %
+JSON    1 hr 30 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.23 %
 Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
