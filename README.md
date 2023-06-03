@@ -76,7 +76,7 @@ I use various resources like Udemy Courses, youtube Tutorials and hackerthon cha
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 Java   15 mins         █████████████████████████   100.00 %
 ```
 
