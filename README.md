@@ -77,11 +77,11 @@ I use various resources like Udemy Courses, youtube Tutorials and hackerthon cha
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript      9 hrs 23 mins   █████████████████░░░░░░░░   67.49 %
-HTML            3 hrs 14 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.27 %
-JSON            45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
-Bash            28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
-YAML            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+JavaScript      14 hrs 46 mins  ██████████████████▓░░░░░░   74.78 %
+HTML            3 hrs 47 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.16 %
+JSON            37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
+Bash            29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+Git Config      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
