@@ -72,7 +72,7 @@ I love sharing knowledge and working on projects with other developers, and that
 
 I use various resources like Udemy Courses, youtube Tutorials and hackerthon challenges to learn Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
 
-#### Coding Stats
+#### This week Coding Stats
 
 <!--START_SECTION:waka-->
 
