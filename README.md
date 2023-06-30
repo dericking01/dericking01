@@ -83,8 +83,11 @@ No activity tracked
 <!--END_SECTION:waka-->
 
 #### Github Stats
+![dericking01's Stats](https://github-readme-stats.vercel.app/api?username=dericking01&theme=blue-green&show_icons=true&hide_border=false&count_private=true) <br >
+![dericking01's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dericking01&theme=blue-green&hide_border=false) <br >
+![dericking01's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dericking01&theme=blue-green&show_icons=true&hide_border=false&layout=compact) <br >
 
-![Derrick's github stats](https://github-readme-stats.vercel.app/api?username=dericking01&count_private=true&theme=tokyonight&hide=contribs,prs)
+<!-- ![Derrick's github stats](https://github-readme-stats.vercel.app/api?username=dericking01&count_private=true&theme=tokyonight&hide=contribs,prs) -->
 
 </details>
 
