@@ -77,8 +77,8 @@ I use various resources like Udemy Courses, youtube Tutorials and hackerthon cha
 <!--START_SECTION:waka-->
 
 ```txt
-PHP              53 mins         ███████████████████░░░░░░   75.37 %
-Blade Template   17 mins         ██████░░░░░░░░░░░░░░░░░░░   24.63 %
+PHP              49 mins         ██████████████████▒░░░░░░   73.60 %
+Blade Template   17 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.40 %
 ```
 
 <!--END_SECTION:waka-->
