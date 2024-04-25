@@ -77,7 +77,11 @@ I use various resources like Udemy Courses, youtube Tutorials and hackerthon cha
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+SQL          18 mins         ██████████▓░░░░░░░░░░░░░░   43.18 %
+Bash         11 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.91 %
+Other        6 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.75 %
+PHP          3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.06 %
+CSV          2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
 ```
 
 <!--END_SECTION:waka-->
