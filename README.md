@@ -77,8 +77,10 @@ I use various resources like Udemy Courses, youtube Tutorials and hackerthon cha
 <!--START_SECTION:waka-->
 
 ```txt
-SSH Config   2 mins          ███████████████████████░░   92.46 %
-Other        0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 %
+PHP              21 mins         ██████████████████▒░░░░░░   73.59 %
+Blade Template   4 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.28 %
+SSH Config       2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 %
+Other            0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
 ```
 
 <!--END_SECTION:waka-->
