@@ -77,11 +77,11 @@ I use various resources like Udemy Courses, youtube Tutorials and hackerthon cha
 <!--START_SECTION:waka-->
 
 ```txt
-HTML             1 hr 53 mins    ███████████████▒░░░░░░░░░   61.79 %
-PHP              38 mins         █████░░░░░░░░░░░░░░░░░░░░   20.66 %
-Blade Template   14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
-Other            8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
-SSH Config       7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
+HTML             1 hr 54 mins    ████████████▒░░░░░░░░░░░░   49.01 %
+PHP              1 hr 26 mins    █████████▒░░░░░░░░░░░░░░░   37.02 %
+Blade Template   14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
+Other            8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
+SSH Config       7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
 ```
 
 <!--END_SECTION:waka-->
