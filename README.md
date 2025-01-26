@@ -8,7 +8,7 @@ I'm Derrick Kamara a Full Stack Web Developer and Content Creator on [Youtube](h
 
 <!-- TODO: Add last video link -->
 
-- 🌱 I’m currently pursuing a degree in Business Information Technology
+- 🌱 I’m a DevOps Engineer in Love with CODE
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding Video ideas.
 - 📫 How to reach me: dericking01@gmail.com.
