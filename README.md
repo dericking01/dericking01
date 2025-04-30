@@ -77,8 +77,8 @@ I use various resources like Udemy Courses, youtube Tutorials and hackerthon cha
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   54 mins         ████████████████████████▒   97.63 %
-TSConfig     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
+PHP          2 hrs 12 mins   ███████████████████████▓░   95.19 %
+TypeScript   6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
 ```
 
 <!--END_SECTION:waka-->
