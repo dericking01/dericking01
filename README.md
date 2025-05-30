@@ -1,4 +1,5 @@
 ## Hi I'm DERRICK <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## DevOps & Systems Engineer | Infrastructure Automation Specialist
 
 I'm Derrick Kamara a Full Stack Web Developer and Content Creator on [Youtube](https://www.youtube.com/channel/UC0iXIgBWjJ8dWnroFNt4VZg). I Spend most of time coding outstanding projects and learning new technologies.
 
