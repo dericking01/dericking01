@@ -166,6 +166,14 @@ Docker           46 mins         █░░░░░░░░░░░░░░�
 🔹 AsiliLooks – Ecommerce & Salon Management with Laravel CMS  
 🔹 Remote NCD Patient Care Platform – Laravel + Vue.js + MySQL  
 🔹 More on [YouTube](https://www.youtube.com/channel/UC0iXIgBWjJ8dWnroFNt4VZg)
+<br/><br/>
+## 🎥 Latest YouTube Videos
+<!-- TODO: Replace with your actual YouTube video links -->
+- [Video Title 1](https://youtube.com/link1)
+- [Video Title 2](https://youtube.com/link2)
+- [Video Title 3](https://youtube.com/link3)
+
+▶️ [More Videos...](https://www.youtube.com/channel/UC0iXIgBWjJ8dWnroFNt4VZg)
 
 </details>
 
