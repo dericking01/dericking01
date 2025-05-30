@@ -158,6 +158,14 @@ Docker           46 mins         █░░░░░░░░░░░░░░�
 🗂️ **Docs & Process Modeling**: Notion, Confluence, Draw.io  
 📊 **Monitoring Tools**: Prometheus, Grafana, Zabbix  
 🛡️ **Security Tools**: UFW, Fail2Ban, Sophos, Certbot, Cyberoam
+<br/><br/>
+### 🛠 Projects & Content
+
+🔹 SMS Campaign Microservice – Kafka + Laravel + Kannel + Redis  
+🔹 HealthBot w/ GPT-4o – SMS + Voice IVR + PBX + Spring Boot  
+🔹 AsiliLooks – Ecommerce & Salon Management with Laravel CMS  
+🔹 Remote NCD Patient Care Platform – Laravel + Vue.js + MySQL  
+🔹 More on [YouTube](https://www.youtube.com/channel/UC0iXIgBWjJ8dWnroFNt4VZg)
 
 </details>
 
