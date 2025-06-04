@@ -116,11 +116,11 @@ I regularly use platforms like **Udemy**, **YouTube**, and hackathons to sharpen
 <!--START_SECTION:waka-->
 
 ```txt
-PHP              3 hrs 16 mins   █████████░░░░░░░░░░░░░░░░   36.09 %
-Other            1 hr 45 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.32 %
-YAML             1 hr 39 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.33 %
-HTML             52 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.69 %
-CSS              31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
+Other            2 hrs 6 mins    █████████▒░░░░░░░░░░░░░░░   37.37 %
+PHP              1 hr 32 mins    ███████░░░░░░░░░░░░░░░░░░   27.43 %
+YAML             1 hr 15 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.39 %
+SSH Config       26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 %
+Docker           8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
 ```
 
 <!--END_SECTION:waka-->
