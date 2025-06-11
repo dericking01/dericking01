@@ -116,9 +116,7 @@ I regularly use platforms like **Udemy**, **YouTube**, and hackathons to sharpen
 <!--START_SECTION:waka-->
 
 ```txt
-PHP     40 mins         ██████████████▓░░░░░░░░░░   59.00 %
-Other   21 mins         ████████░░░░░░░░░░░░░░░░░   31.45 %
-YAML    6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.55 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
