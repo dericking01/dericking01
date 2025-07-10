@@ -169,11 +169,11 @@ Bash               19 mins         ▓░░░░░░░░░░░░░░
 <br/><br/>
 ## 🎥 Latest YouTube Videos
 <!-- TODO: Replace with your actual YouTube video links -->
-- [Video Title 1](https://youtube.com/link1)
-- [Video Title 2](https://youtube.com/link2)
-- [Video Title 3](https://youtube.com/link3)
+- [Video Title 1](https://youtu.be/gw4lZhbCmy8?si=BecylfCEdaTRx6CW)
+- [Video Title 2](https://youtu.be/3UqHwR0BO8w?si=TxJ0b2FcxMhtQVkX)
+- [Video Title 3](https://youtu.be/Yi61yLHS3xo?si=yupaN9yMTBVxBdCm)
 
-▶️ [More Videos...](https://www.youtube.com/channel/UC0iXIgBWjJ8dWnroFNt4VZg)
+▶️ [More Videos...](https://www.youtube.com/@OdooTanzania)
 
 </details>
 
