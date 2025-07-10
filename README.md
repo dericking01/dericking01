@@ -8,7 +8,7 @@
 
 I'm **Derrick Kamara**, a full-stack web developer and systems architect who thrives at the intersection of code and infrastructure. I specialize in **Dockerized microservices**, **Kubernetes**, **CI/CD pipelines**, **Kafka messaging**, and **infrastructure automation** — all while building fast, scalable, and resilient apps with **Laravel**, **Spring Boot**, **Next.js**, and more.
 
-I also create educational content on [YouTube](https://www.youtube.com/channel/UC0iXIgBWjJ8dWnroFNt4VZg) focused on Odoo ERP, DevOps, and real-world implementations.
+I also create educational content on [YouTube](https://www.youtube.com/@OdooTanzania) focused on Odoo ERP, DevOps, and real-world implementations.
 
 ---
 
