@@ -24,8 +24,8 @@ I also create educational content on [YouTube](https://www.youtube.com/@OdooTanz
 ---
 
 ### 🔧 What I Do
-- 🐳 Containerized Microservices with **Docker + Spring Boot + Laravel**
-- 📦 Real-time messaging with **Kafka + Redis**
+- 🐳 Containerized Microservices with **Docker + Spring Boot + Laravel + Python**
+- 📦 Real-time messaging with **RabbitMQ + Kafka + Redis**
 - 🧠 GPT-4o Chatbot + **Kannel SMS** + SMPP Bindings
 - 🛠️ Server-side deployments, system hardening, and **firewall configs (UFW, Sophos)**
 - 🚀 CI/CD Pipelines via **GitHub Actions**, `systemd`, shell scripting
@@ -182,3 +182,4 @@ PHP          1 hr 4 mins     ██░░░░░░░░░░░░░░░
 [vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
 [htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
 [javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E
+
