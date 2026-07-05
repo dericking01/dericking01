@@ -116,11 +116,11 @@ I regularly use platforms like **Udemy**, **YouTube**, and hackathons to sharpen
 <!--START_SECTION:waka-->
 
 ```txt
-YAML         1 hr 57 mins          ███████████▒░░░░░░░░░░░░░   44.81 %
-TypeScript   34 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.22 %
-PHP          34 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.14 %
-Docker       24 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.51 %
-Other        17 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
+TypeScript   2 hrs 7 mins          ███████████▒░░░░░░░░░░░░░   45.07 %
+PHP          40 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.27 %
+YAML         33 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.93 %
+Other        26 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 %
+Bash         17 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
 ```
 
 <!--END_SECTION:waka-->
