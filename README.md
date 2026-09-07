@@ -116,11 +116,11 @@ I regularly use platforms like **Udemy**, **YouTube**, and hackathons to sharpen
 <!--START_SECTION:waka-->
 
 ```txt
-PHP          2 hrs 29 mins         ███████▒░░░░░░░░░░░░░░░░░   29.40 %
-Python       1 hr 37 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.13 %
-Bash         1 hr 2 mins           ███░░░░░░░░░░░░░░░░░░░░░░   12.34 %
-Other        47 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.37 %
-XML          43 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
+PHP          2 hrs 39 mins         ███████▓░░░░░░░░░░░░░░░░░   31.03 %
+Python       1 hr 33 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.22 %
+Bash         1 hr 1 min            ███░░░░░░░░░░░░░░░░░░░░░░   12.00 %
+Other        47 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.28 %
+XML          43 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 %
 ```
 
 <!--END_SECTION:waka-->
